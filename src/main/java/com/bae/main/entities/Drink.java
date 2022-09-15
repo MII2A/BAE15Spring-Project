@@ -9,7 +9,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
 
-import com.qa.SpringDrinks.domain.Drink;
 
 @Entity
 public class Drink {
