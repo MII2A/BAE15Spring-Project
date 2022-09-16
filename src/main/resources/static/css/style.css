@@ -1,0 +1,15 @@
+#formDiv {
+    margin-top: 5%;
+    margin-left: 3%;
+    width: 50%;
+    border: solid 3px red;
+    display: inline-grid;
+    padding: 15px;
+}
+
+#resultsDiv {
+    border: 3px solid red;
+    width: 30%;
+    display: inline-grid;
+    /* margin-top: 5%; */
+}
